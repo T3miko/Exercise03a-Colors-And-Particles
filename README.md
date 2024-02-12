@@ -18,6 +18,7 @@ Built using Unity 2022.3.17f1
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [KENNY Fonts] (https://opengameart.org/content/kenney-fonts)
+ * [KENNY Shape Characters] (https://kenney.nl/assets/shape-characters)
  
 
 ## Future Development
